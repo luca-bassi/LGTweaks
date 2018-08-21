@@ -3,6 +3,7 @@
     <string-array name="home_touch_color_option">
         <item>\#fafafa</item>
         <item>\#ffffff</item>
+        <item>\#000000</item>
         <item>\#eb306f</item>
         <item>\#4386f9</item>
         <item>\#ef5350</item>
